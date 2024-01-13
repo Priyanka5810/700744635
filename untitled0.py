@@ -14,6 +14,8 @@ resultant_string = ip[::-1]
 print("Sample output:")
 print("".join(resultant_string))
 
+#-------------------------------------------------
+
 #PROGRAM 2
 # Taking two numbers from the user
 n1 = int(input("First number: "))
@@ -32,6 +34,8 @@ print(f"Subtraction: {sub_result}")
 print(f"Multiplication: {multi_result}")
 print(f"Division: {div_result}")
 
+#-------------------------------------------------
+
 #PROGRAM 3
 # Taking a sentence from the user
 inp_sentence = input("Enter a sentence: ")
@@ -42,6 +46,8 @@ op_sentence = inp_sentence.replace('python', 'pythons')
 # Print the modified sentence
 print("Sample output:")
 print(op_sentence)
+
+#-------------------------------------------------
 
 #PROGRAM 4
 # Take the class score from the user
